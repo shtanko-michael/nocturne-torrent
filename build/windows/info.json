@@ -1,0 +1,14 @@
+{
+  "fixed": {
+    "file_version": "1.0.0"
+  },
+  "info": {
+    "0000": {
+      "ProductVersion": "1.0.0",
+      "CompanyName": "Nocturne Contributors",
+      "FileDescription": "Nocturne BitTorrent client",
+      "ProductName": "Nocturne",
+      "LegalCopyright": "Copyright (c) 2026 Nocturne Contributors"
+    }
+  }
+}

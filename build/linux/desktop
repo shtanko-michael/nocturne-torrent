@@ -1,0 +1,11 @@
+[Desktop Entry]
+Version=1.0
+Name=Nocturne
+Comment=Private, cross-platform BitTorrent client
+# The Exec line includes %u to pass the URL to the application
+Exec=/usr/bin/nocturne %u
+Terminal=false
+Type=Application
+Icon=nocturne
+Categories=Network;FileTransfer;P2P;
+StartupWMClass=nocturne
