@@ -115,7 +115,7 @@ jobs:
         run: |
           wails3 generate webview2bootstrapper -dir "$pwd/build/windows/nsis"
           Push-Location build/windows/nsis
-          & makensis -DWAILS_INSTALL_SCOPE=user -DREQUEST_EXECUTION_LEVEL=user -DINFO_PRODUCTVERSION=${{ needs.prepare.outputs.version }} "-DARG_WAILS_AMD64_BINARY=$pwd\..\..\..\bin\nocturne.exe" project.nsi
+          & makensis -DWAILS_INSTALL_SCOPE=user -DREQUEST_EXECUTION_LEVEL=user "-DARG_WAILS_AMD64_BINARY=$pwd\..\..\..\bin\nocturne.exe" project.nsi
           Pop-Location
       - name: Sign installer when a certificate is configured
         if: env.WINDOWS_CERTIFICATE_BASE64 != ''
