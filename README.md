@@ -2,6 +2,8 @@
 
 Nocturne is a cross-platform BitTorrent desktop client built with Wails 3, Go, React, and TypeScript. It was developed as an information security university project and treats torrent metadata, peer traffic, and filesystem paths as untrusted input.
 
+![Nocturne torrent client showing active downloads and file details](docs/screenshots/nocturne-main.png)
+
 ## Features
 
 - `.torrent` files and magnet links, including BitTorrent v1, v2, and hybrid torrents;
