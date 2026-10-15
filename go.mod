@@ -1,12 +1,12 @@
 module nocturne
 
-go 1.25.0
+go 1.26.0
 
 require (
 	github.com/anacrolix/dht/v2 v2.23.1-0.20260525063928-ec3a9bd99456
 	github.com/anacrolix/torrent v1.61.1-0.20260908035318-5561014ea28f
 	github.com/wailsapp/wails/v3 v3.0.0-alpha.96
-	golang.org/x/time v0.14.0
+	golang.org/x/time v0.16.0
 	modernc.org/sqlite v1.44.3
 )
 
