@@ -37,8 +37,8 @@ github.com/anacrolix/btree v0.1.1 h1:igdFPLrt82L6qovzbEGSMkTeiwcU3EFIGl2K8XWocAc
 github.com/anacrolix/btree v0.1.1/go.mod h1:KHWYRZuUULATjUGJC4dQDXx/BPOnWrJozGR6TndjOmc=
 github.com/anacrolix/chansync v0.8.0 h1:Z/YLVXRDMTy3jFfHKSwzCRVD88ldnFoM4THdWqLjNxM=
 github.com/anacrolix/chansync v0.8.0/go.mod h1:RT3KIkmAanMPsiKC/HTBOrSlgB4TQ8DW8dxgDOnQGsg=
-github.com/anacrolix/dht/v2 v2.23.1-0.20260525063928-ec3a9bd99456 h1:5ylkQM8XiZxJw1yhWlV8ICyzl4DNRbEPR4FNlYKpEgs=
-github.com/anacrolix/dht/v2 v2.23.1-0.20260525063928-ec3a9bd99456/go.mod h1:0IpTSbqYnFcjmexGvnINUGq/kbx93S5cKIryH4oJL8U=
+github.com/anacrolix/dht/v2 v2.24.0 h1:qKIZKmJjW0y/LoqeMPPQ99JBy3Op15voFZrR7OpeOh8=
+github.com/anacrolix/dht/v2 v2.24.0/go.mod h1:0IpTSbqYnFcjmexGvnINUGq/kbx93S5cKIryH4oJL8U=
 github.com/anacrolix/envpprof v0.0.0-20180404065416-323002cec2fa/go.mod h1:KgHhUaQMc8cC0+cEflSgCFNFbKwi5h54gqtVn8yhP7c=
 github.com/anacrolix/envpprof v1.0.0/go.mod h1:KgHhUaQMc8cC0+cEflSgCFNFbKwi5h54gqtVn8yhP7c=
 github.com/anacrolix/envpprof v1.1.0/go.mod h1:My7T5oSqVfEn4MD4Meczkw/f5lSIndGAKu/0SM/rkf4=
